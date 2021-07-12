@@ -1,0 +1,22 @@
+#hyouji {
+    border: 1px solid #000;
+    margin: 10px;
+    width: 300px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+  }
+  
+  #num_box {
+    margin: 10px;
+    /*background: #faa;*/
+  }
+  
+  #button_box {
+    padding: 10px;
+    background: #aaf;
+  }
+  
+  #num1, #num2, #num3 {
+    width: 60px;
+  }
